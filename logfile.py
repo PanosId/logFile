@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 27 21:12:02 2018
-
-@author: panos
-"""
 
 infile = r"C:\Users\paioa\Desktop\testlog.log"
 
